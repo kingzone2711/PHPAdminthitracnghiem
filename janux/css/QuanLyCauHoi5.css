@@ -1,0 +1,58 @@
+.HocPhan{
+    margin: 0px 10px 0px 10px;
+}
+
+.themcauhoi{
+    float: right;
+    margin: 10px;
+}
+
+.causo{
+    width: 7%;
+}
+
+.xuly{
+    width: 11%;
+}
+
+.dapana,.dapanb,.dapanc,.dapand,.dapan{
+    width: 12%;
+}
+
+.hocphan1{
+    float: left;
+}
+
+.guisuacauhoi{
+    display: none;
+}
+.dataTables_wrapper > .row-fluid > .span6{
+    display: none;
+}
+.dataTables_wrapper > .row-fluid {
+    text-align: center;
+}
+
+.hp{
+    width: 20%;
+}
+
+.khoa{
+    width: 44%;
+}
+.sdt{
+    width: 10%;
+}
+.ns{
+    width: 10%;
+}
+.sv{
+    width: 17%;
+}
+.gt{
+    width: 8%;
+}
+
+.gv{
+    width: 18%;
+}
